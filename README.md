@@ -1,6 +1,6 @@
 # Hi, I'm Rediet Girma 👋
 
-I'm a Full Stack Developer passionate about building real-world applications.  
+I'm a Front-End and Back-End Stack Developer passionate about building real-world applications.  
 I'm actively looking for opportunities where I can showcase my talents and grow as a developer.
 
 **Recent Project:** Customer Management System - a full-stack application using real external APIs to manage customer data efficiently.
