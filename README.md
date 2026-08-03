@@ -1,79 +1,109 @@
+<div align="center">
 
-<h1 align="center">Hi there, I'm Rediet Girma 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1b1200&height=200&section=header&text=Rediet%20Girma&fontSize=48&fontColor=F7941D&fontAlignY=38&desc=Software%20%26%20Data%20Developer&descAlignY=58&descSize=18&descColor=2FB8D6&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=600&lines=Aspiring+Software+%26+Data+Developer;Python+%7C+Machine+Learning+%7C+Data+Analytics;Web+%26+UI%2FUX+Enthusiast" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2FB8D6&center=true&vCenter=true&width=560&lines=Python+%7C+Machine+Learning+%7C+Data+Analytics;Web+Development+%26+UI%2FUX+Design;Always+Building%2C+Always+Learning" />
 
-<p align="center">
-  <a href="mailto:redietgirma2930@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/redietgm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
+<a href="mailto:redietgirma2930@gmail.com"><img src="https://img.shields.io/badge/Email-F7941D?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/redietgm"><img src="https://img.shields.io/badge/LinkedIn-2FB8D6?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-1b232c?style=for-the-badge" />
 
-### 🚀 About Me
+</div>
 
-- 🔭 I'm currently sharpening my skills in **Python, Machine Learning, and Data Analytics**
-- 🎨 I also enjoy building clean, user-friendly interfaces with **UI/UX design**
-- 🌱 Constantly learning new tools across web development, data science, and software engineering
-- 💬 Ask me about **Python, Data Visualization, or Frontend Development**
-- 📫 Reach me at **redietgirma2930@gmail.com**
-- 🗂️ Portfolio: *coming soon — stay tuned!*
+<br/>
 
----
+## &nbsp;&nbsp;🔭&nbsp; About Me
 
-### 🛠️ Skills & Tools
+```yaml
+role:        Aspiring Software & Data Developer
+focus:       Machine Learning · Data Analytics · Clean Interfaces
+currently:   Deepening my Python & ML skills, one project at a time
+fun_fact:    I care as much about how data looks as what it says
+```
+
+<br/>
+
+## &nbsp;&nbsp;🛠️&nbsp; Skills & Stack
+
+<div align="center">
 
 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,csharp" />
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,csharp,js,html,css&theme=dark" />
+
+<br/><br/>
 
 **Data & Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=flat-square" />
-</p>
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<br/><br/>
 
 **Web & UI/UX**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,php,mysql,tailwind,bootstrap,figma,dotnet" />
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,php,dotnet,figma,tailwind,bootstrap&theme=dark" />
 
----
+</div>
 
-### 📜 Certifications
+<br/>
 
-| Certificate | Issued By | Date |
-|---|---|---|
-| 🏅 Data Analytics & Visualization Using Python | INFNOVA Technologies (in collaboration with Orange Digital Center, Creative Hub Ethiopia, Innobiz-K & Ministry of Innovation & Technology) | July 6–10, 2026 |
-| 🏅 Machine Learning Using Python | Certificate Code: 10540424 | July 31, 2026 |
-| 🏅 Python | Kaggle | July 17, 2026 |
+## &nbsp;&nbsp;📜&nbsp; Certificates
 
----
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
-### 📊 GitHub Stats
+**📊 Data Analytics & Visualization**
+<br/>using Python
+<br/><br/>
+<sub>INFNOVA Technologies × Orange Digital Center × Creative Hub Ethiopia × Innobiz-K</sub>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R3D-GM&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R3D-GM&hide_border=true" width="48%" />
-</p>
+</td>
+<td width="33%" align="center" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3D-GM&layout=compact&hide_border=true" width="50%" />
-</p>
+**🤖 Machine Learning**
+<br/>using Python
+<br/><br/>
+<sub>Certificate Code · 10540424</sub>
 
----
+</td>
+<td width="33%" align="center" valign="top">
 
-<p align="center">
-  ⭐ Thanks for visiting my profile — feel free to explore my repositories!
-</p>
+**🐍 Python**
+<br/>Core Certification
+<br/><br/>
+<sub>Kaggle Learn</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## &nbsp;&nbsp;📊&nbsp; GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=R3D-GM&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=F7941D&icon_color=2FB8D6&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=R3D-GM&theme=dark&hide_border=true&background=0d1117&stroke=F7941D&ring=F7941D&fire=F7941D&currStreakLabel=2FB8D6" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3D-GM&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=F7941D&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=R3D-GM&theme=react-dark&hide_border=true&bg_color=0d1117&color=2FB8D6&line=F7941D&point=F7941D" width="48%" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1200,100:0d1117&height=100&section=footer" width="100%"/>
+
+<div align="center">
+<sub>⭐ Thanks for stopping by — feel free to explore my repositories!</sub>
+</div>
